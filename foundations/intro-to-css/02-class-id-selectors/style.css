@@ -1,26 +1,19 @@
-.Number-1 {
+.odd {
     background-color: #f78968;
-    font: Verdana;
+    font: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#Number-2 {
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
     color: blue;
     font-size: 36px;
 }
 
-.Number-3 {
-    background-color: #f78968;
-    font-family: Helvetica;
-    font-size: 24px;
-}
-
-#Number-4 {
+#four{
     background-color: #5cd65c;
     font-size: 24px;
 }
 
-.Number-5 {
-    background-color: #f78968;
-    font-family: Arial;
-    ;
-}
